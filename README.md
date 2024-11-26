@@ -16,7 +16,7 @@ yarn updateOwner    # Update Owner
 
 ## ✨ Key Concepts
 
-![image1.png](./image1.png)
+![image1.png](./images/image1.png)
 
 - Store Jetton content in the `Cell` data type.
 - According to [TEP-74](https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md), use lowercase names in `get_jetton_data()`. Otherwise, major browsers will not correctly read Jetton information.
