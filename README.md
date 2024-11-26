@@ -33,9 +33,7 @@ yarn updateOwner    # Update Owner
 
 ## Community
 
-- [Tact Lang Community](https://t.me/tactlang)
-- [Ton101](https://t.me/ton101)
-- [TON Dev Chat [EN]](https://t.me/tondev_eng)
+- [UXLINK Community](Telegram UXLINK®)
 
 ## Deployment
 
