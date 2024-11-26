@@ -33,7 +33,7 @@ yarn updateOwner    # Update Owner
 
 ## Community
 
-- [UXLINK Community](Telegram UXLINK®)
+- [UXLINK Community] (https://t.me/uxlinkofficial)
 
 ## Deployment
 
