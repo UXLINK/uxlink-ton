@@ -7,8 +7,7 @@
     "mint": "ts-node ./sources/scripts/mint.ts",
     "burn": "ts-node ./sources/scripts/burn.ts",
     "update": "ts-node ./sources/scripts/update.ts",
-    "updateOwner": "ts-node ./sources/scripts/updateOwner.ts",
-    "batchTransfer": "ts-node ./sources/scripts/batchTransfer/batchTransfer.ts"
+    "updateOwner": "ts-node ./sources/scripts/updateOwner.ts"
   },
   "dependencies": {
     "@aws-crypto/sha256-js": "^4.0.0",

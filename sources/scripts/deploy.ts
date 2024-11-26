@@ -13,8 +13,8 @@ dotenv.config();
     let testnet = deployParams.isTest;
 
     const ownerAddress = {
-        mainnet: process.env.mainnet_address || "", // 部署合约的owner 主网
-        testnet: process.env.testnet_address || "", // 部署合约的owner 测试网
+        mainnet: process.env.mainnet_address || "",
+        testnet: process.env.testnet_address || "",
     };
 
     // Create content Cell
