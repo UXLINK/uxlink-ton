@@ -1,4 +1,4 @@
-# UXLINK token
+# UXLINK - Ton Chain Token
 UXLINK Governance Token, $UXLINK is to realize governance and capture benefits from UXLINK project and products.
 Certainly! Here is the translation:
 
@@ -33,9 +33,7 @@ yarn updateOwner    # Update Owner
 
 ## Community
 
-- [Tact Lang Community](https://t.me/tactlang)
-- [Ton101](https://t.me/ton101)
-- [TON Dev Chat [EN]](https://t.me/tondev_eng)
+- [UXLINK Community] (https://t.me/uxlinkofficial)
 
 ## Deployment
 
